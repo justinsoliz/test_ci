@@ -1,0 +1,12 @@
+Assets/
+*ReSharper.user
+_ReSharper.*/
+[Dd]ebug/
+[Rr]elease/
+[Bb]in/
+[Oo]bj/
+*.user
+*.suo
+*.sln.cache
+*.log
+*.bak

@@ -1,9 +1,0 @@
-C:\Dev\Sites\TestCIBuild\src\Tests\bin\Release\Tests.dll
-C:\Dev\Sites\TestCIBuild\src\Tests\bin\Release\Tests.pdb
-C:\Dev\Sites\TestCIBuild\src\Tests\bin\Release\MvcApplication1.dll
-C:\Dev\Sites\TestCIBuild\src\Tests\bin\Release\nunit.framework.dll
-C:\Dev\Sites\TestCIBuild\src\Tests\bin\Release\MvcApplication1.pdb
-C:\Dev\Sites\TestCIBuild\src\Tests\bin\Release\nunit.framework.xml
-C:\Dev\Sites\TestCIBuild\src\Tests\obj\Release\ResolveAssemblyReference.cache
-C:\Dev\Sites\TestCIBuild\src\Tests\obj\Release\Tests.dll
-C:\Dev\Sites\TestCIBuild\src\Tests\obj\Release\Tests.pdb

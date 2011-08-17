@@ -1,5 +1,0 @@
-C:\Dev\Sites\TestCIBuild\src\MvcApplication1\bin\MvcApplication1.dll
-C:\Dev\Sites\TestCIBuild\src\MvcApplication1\bin\MvcApplication1.pdb
-C:\Dev\Sites\TestCIBuild\src\MvcApplication1\obj\Release\ResolveAssemblyReference.cache
-C:\Dev\Sites\TestCIBuild\src\MvcApplication1\obj\Release\MvcApplication1.dll
-C:\Dev\Sites\TestCIBuild\src\MvcApplication1\obj\Release\MvcApplication1.pdb
