@@ -5,6 +5,7 @@ _ReSharper.*/
 [Rr]elease/
 [Bb]in/
 [Oo]bj/
+[Ll]ogs/
 *.user
 *.suo
 *.sln.cache

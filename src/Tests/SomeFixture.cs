@@ -9,7 +9,7 @@ namespace Tests
         [Test]
         public void Should_Pass()
         {
-            Assert.Fail();
+            Assert.Pass();
         }
     }
 }
