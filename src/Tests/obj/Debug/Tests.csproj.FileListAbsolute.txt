@@ -1,0 +1,9 @@
+C:\Dev\Sites\TestCIBuild\src\Tests\bin\Debug\Tests.dll
+C:\Dev\Sites\TestCIBuild\src\Tests\bin\Debug\Tests.pdb
+C:\Dev\Sites\TestCIBuild\src\Tests\bin\Debug\MvcApplication1.dll
+C:\Dev\Sites\TestCIBuild\src\Tests\bin\Debug\nunit.framework.dll
+C:\Dev\Sites\TestCIBuild\src\Tests\bin\Debug\MvcApplication1.pdb
+C:\Dev\Sites\TestCIBuild\src\Tests\bin\Debug\nunit.framework.xml
+C:\Dev\Sites\TestCIBuild\src\Tests\obj\Debug\ResolveAssemblyReference.cache
+C:\Dev\Sites\TestCIBuild\src\Tests\obj\Debug\Tests.dll
+C:\Dev\Sites\TestCIBuild\src\Tests\obj\Debug\Tests.pdb
